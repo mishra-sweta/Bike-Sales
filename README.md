@@ -4,6 +4,8 @@
 This repository houses an Excel dashboard designed to analyze bike sales data of different parts of the world, visualising it on the basis of gender, marital status, education. The dashboard provides insights into how the sales of bikes are affected by commute distance, income, gender or education.
 
 ## Screenshots
+![Screenshot (47)](https://github.com/mishra-sweta/Bike-Sales/assets/65032494/1d2786e9-82d8-4d5e-bb13-449135501206)
+
 ![Screenshot (48)](https://github.com/mishra-sweta/Bike-Sales/assets/65032494/f2452fef-4c24-474d-a29a-fde5b6b813b4)
 
 ## Features
